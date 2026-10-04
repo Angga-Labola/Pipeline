@@ -14,4 +14,4 @@ df.to_sql(
     index = False
 )
 
-print('Successful')
+print('Successful 100%')
